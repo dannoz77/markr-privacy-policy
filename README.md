@@ -54,8 +54,8 @@ We may update this policy from time to time. When we do, we will revise the date
 
 If you have any questions about this Privacy Policy, please contact:
 
-**Daniel Lindey**  
-Email: [daniel.lindey@gmail.com]  
+**Daniel Lindquist**  
+Email: [daniel.v.lindquist@gmail.com]  
 GitHub: [https://github.com/dannoz77](https://github.com/dannoz77)
 
 ---
