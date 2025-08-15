@@ -1,61 +1,50 @@
-# Privacy Policy
+Privacy Policy
+Effective Date: June 11, 2025
+App Name: Markr
+Developer: Daniel Lindquist
 
-**Effective Date:** June 11, 2025  
-**App Name:** Markr
+Markr (“we”, “our”, “us”) respects your privacy. This policy explains how the app handles your information.
 
-Markr ("we", "our", or "us") respects your privacy. This Privacy Policy explains how we handle your information when you use our mobile app.
+1) Information We Do Not Collect
+Markr does not collect, transmit, sell, or share personal information. Specifically, we do not:
 
----
+Collect names, emails, or other identifiers
 
-## 1. Information We Do Not Collect
+Upload your audio recordings or marker data to our servers (we do not operate any)
 
-Markr does **not** collect or share any personal information. Specifically, we do **not**:
-- Collect user names, email addresses, or other identifying information
-- Access or transmit your audio recordings or marker data
-- Use third-party analytics or advertising services
+Use third-party analytics, ads, or tracking SDKs
 
----
+2) App Permissions & Purpose
+The app may request:
 
-## 2. App Permissions
+Microphone — to record audio when you choose to record
 
-Markr may request access to:
-- **Microphone** – for recording audio
-- **Storage/Media** – for saving and loading audio files
+Storage/Media — to save audio files and markers locally and to open/import files you select
 
-These permissions are used only to enable app functionality and are not used to collect or transmit data.
+Permissions are used only for these features and can be revoked in your device settings.
 
----
+3) Local-Only Storage
+All audio and markers are stored locally on your device. We don’t have access to this content and don’t retain server copies.
 
-## 3. Data Storage
+Delete your data: In the app, go to Settings → Clear All Projects, or uninstall the app to remove locally stored data.
 
-All audio files and markers created in Markr are stored **locally on your device**. We do not upload or access this data remotely.
+4) Network & User-Initiated Transfers
+Markr itself does not send your data to any server. However:
 
----
+If you share a file or marker list, Android’s system share sheet opens and you choose the destination app/service. That third party processes your data under its own policy.
 
-## 4. No Internet Communication
+If you open external links (e.g., this privacy policy) or import from cloud storage providers, those services handle any network communication—not Markr.
 
-Markr operates **entirely offline**. The app does not send data to any server or connect to the internet.
+These actions are user-initiated and do not constitute data collection by us. 
+Google Help
 
----
+5) Children’s Privacy
+We don’t knowingly collect data from children. The app functions offline and does not transmit personal data.
 
-## 5. Children’s Privacy
+6) Changes to This Policy
+If we update this policy, we’ll revise the Effective Date above and publish the changes at the same URL.
 
-Markr does not knowingly collect any data from children under 13. Since no data is collected at all, the app is safe for users of all ages.
-
----
-
-## 6. Changes to This Policy
-
-We may update this policy from time to time. When we do, we will revise the date at the top of this page. Any updates will be posted in this GitHub repository.
-
----
-
-## 7. Contact
-
-If you have any questions about this Privacy Policy, please contact:
-
-**Daniel Lindquist**  
-Email: [daniel.v.lindquist@gmail.com]  
-GitHub: [https://github.com/dannoz77](https://github.com/dannoz77)
-
----
+7) Contact
+Daniel Lindquist
+Email: daniel.v.lindquist@gmail.com
+GitHub: https://github.com/dannoz77
