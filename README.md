@@ -35,8 +35,7 @@ If you share a file or marker list, Android’s system share sheet opens and you
 
 If you open external links (e.g., this privacy policy) or import from cloud storage providers, those services handle any network communication—not Markr.
 
-These actions are user-initiated and do not constitute data collection by us. 
-Google Help
+These actions are user-initiated and do not constitute data collection by us.
 
 5) Children’s Privacy:
 We don’t knowingly collect data from children. The app functions offline and does not transmit personal data.
